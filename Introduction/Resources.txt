@@ -1,0 +1,38 @@
+For Information Gathering:
+ Whatweb -https://tools.kali.org/web-applications/whatweb
+ theHarvester - https://tools.kali.org/information-gathering/theharvester
+ Red Hawk - https://github.com/Tuhinshubhra/RED_HAWK
+ Sherlock - https://github.com/sherlock-project/sherlock
+
+For Scanning:
+ Netdiscover - https://kalilinuxtutorials.com/netdiscover-scan-live-hosts-network/
+ Nmap - https://nmap.org/
+ Zenmap - https://nmap.org/zenmap/
+
+For Vulnerability Analysis:
+ Nmap Scripts - https://nmap.org/book/man-nse.html
+ Searchsploit - https://www.exploit-db.com/searchsploit
+ Nessus - https://www.tenable.com/products/nessus
+
+For Gaining Access(Viruses,Trojans,Payloads..):
+ Msfvenom - https://www.offensive-security.com/metasploit-unleashed/msfvenom/
+ Veil - https://github.com/Veil-Framework/Veil-Evasion
+ TheFatRat - https://github.com/Screetsec/TheFatRat
+ Hexeditor - https://itsfoss.com/hex-editors-linux/
+
+For Website Application Penetration Testing:
+ Dirb - https://tools.kali.org/web-applications/dirb
+ Burpsuite - https://portswigger.net/burp
+ Hydra - https://tools.kali.org/password-attacks/hydra
+ DVWA - https://www.cyberpunk.rs/dvwa-damn-vulnerable-web-application
+
+For Man In The Middle - MITM:
+ Bettercap - https://www.bettercap.org/
+ Ettercap - https://www.ettercap-project.org/
+ Scapy - https://scapy.net/
+
+For Wireless Access Point Cracking:
+ aircrack-ng - https://www.aircrack-ng.org/
+ airodump-ng - https://www.aircrack-ng.org/doku.php?id=airodump-ng
+ aireplay-ng - https://www.aircrack-ng.org/doku.php?id=aireplay-ng
+ Hashcat - https://hashcat.net/hashcat/

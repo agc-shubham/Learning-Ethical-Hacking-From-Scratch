@@ -1,0 +1,15 @@
+Step1 - Information Gathering:
+
+Step2 - Scanning:
+
+Step3 - Vulnerability Analysis:
+
+Step4 - Exploitation & Gaining Access:
+
+Step5 - Gaining Access(Viruses,Trojans,Payloads..):
+
+Step6 - Website Application Penetration Testing:
+
+Step7 - Man In The Middle - MITM:
+
+Step8 - Wireless Access Point Cracking:

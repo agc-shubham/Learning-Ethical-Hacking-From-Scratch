@@ -1,0 +1,6 @@
+what is Ethical Hacking?
+Ethical hacking is a structured hacking performed by white hat hackers to expose vulnerabilities
+and threats present in an organisation with their knowledge and permission.
+why Ethical hacking?
+There are bad actors present in outside world that attacks a organisation and their systems with
+ill intent to gain access over their system. They are also known as Black Hat Hackers.
